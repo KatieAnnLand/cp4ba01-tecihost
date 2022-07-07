@@ -1,0 +1,9 @@
+{
+  "name" : "decisions/Client-Onboarding/OPS1657229651464",
+  "type" : "OPS",
+  "description" : "",
+  "mlUrl" : "http://ads-ml-service-service-ibm-ads-ml-service.apps.cp4ba01.tec.ihost.com/",
+  "authUrl" : "",
+  "instanceId" : "",
+  "apiKey" : null
+}
